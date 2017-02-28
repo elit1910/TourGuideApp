@@ -1,0 +1,89 @@
+<resources>
+    <!--Perus namn for View-->
+    <string name="app_name">TourGuideApp</string>
+    <string name="Helsinki">Helsinki</string>
+    <string name="Stockholm">Stockholm</string>
+    <string name="Copenhagen">Copenhagen</string>
+    <string name="Oslo">Oslo</string>
+
+    <!--Helsinki sedvardheter 1,2,3,4,5-->
+    <string name="helsinki_sedvardhet_namn_1">Sibelius Monument</string>
+    <string name="helsinki_sedvardhet_nummer_1">09 31087041</string>
+    <string name="helsinki_sedvardhet_adress_1">Sibeliuksen puisto, Mechelininkatu, 00250 Helsinki</string>
+    <string name="helsinki_sedvardhet_bild_1">https://upload.wikimedia.org/wikipedia/en/8/81/Sibelius_monument.jpg</string>
+
+    <string name="helsinki_sedvardhet_namn_2">Ateneum</string>
+    <string name="helsinki_sedvardhet_nummer_2">029 4500401</string>
+    <string name="helsinki_sedvardhet_adress_2">Kaivokatu 2, 00100 Helsinki</string>
+    <string name="helsinki_sedvardhet_bild_2">http://www.ateneum.fi/wp-content/uploads/2015/12/1888.jpg</string>
+
+    <string name="helsinki_sedvardhet_namn_3">Finnish National Museum (Kansallismuseo)</string>
+    <string name="helsinki_sedvardhet_nummer_3">029 5336000</string>
+    <string name="helsinki_sedvardhet_adress_3">Mannerheimintie 34, 00100 Helsinki</string>
+    <string name="helsinki_sedvardhet_bild_3">http://www.planetware.com/photos-large/SF/finland-helsinki-finnish-national-museum.jpg</string>
+
+    <string name="helsinki_sedvardhet_namn_4">Finlandia Hall</string>
+    <string name="helsinki_sedvardhet_nummer_4">09 40241</string>
+    <string name="helsinki_sedvardhet_adress_4">Mannerheimintie 13e, 00100 Helsinki</string>
+    <string name="helsinki_sedvardhet_bild_4">http://www.planetware.com/photos-large/SF/finland-helsinki-finlandia-hall.jpg</string>
+
+    <string name="helsinki_sedvardhet_namn_5">Helsinki Olympic Stadium</string>
+    <string name="helsinki_sedvardhet_nummer_5">09 4366010</string>
+    <string name="helsinki_sedvardhet_adress_5">Paavo Nurmen tie 1, 00250 Helsinki</string>
+    <string name="helsinki_sedvardhet_bild_5">http://www.planetware.com/photos-large/SF/finland-helsinki-olympic-stadium.jpg</string>
+
+
+    <!--Stockholm sedvardheter 1,2,3,4-->
+    <string name="Stockholm_sedvardhet_namn_1">Gamla Stan</string>
+    <string name="Stockholm_sedvardhet_nummer_1"></string>
+    <string name="Stockholm_sedvardhet_adress_1"></string>
+    <string name="Stockholm_sedvardhet_bild_1">https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlVZfA3j1UWELrmjAJ9IL1G1DJoKcwWFjbSJ9qfQnweO0XQm0C</string>
+
+    <string name="Stockholm_sedvardhet_namn_2">Moderna Museet</string>
+    <string name="Stockholm_sedvardhet_nummer_2">+46 8 520 235 00</string>
+    <string name="Stockholm_sedvardhet_adress_2">Exercisplan 4, 111 49 Stockholm</string>
+    <string name="Stockholm_sedvardhet_bild_2">http://images.visitstockholm.com/6d/e94/6de94cc1-a235-41a4-89d9-9bfb3ee4302b/rectangle_big_retina.jpg</string>
+
+    <string name="Stockholm_sedvardhet_namn_3">ABBA The Museum &amp; Swedish Music Hall of Fame</string>
+    <string name="Stockholm_sedvardhet_nummer_3">+46 8 121 328 60</string>
+    <string name="Stockholm_sedvardhet_adress_3">Djurgårdsvägen 68 Stockholm</string>
+    <string name="Stockholm_sedvardhet_bild_3">http://images.visitstockholm.com/55/b46/55b467a2-0b9d-4b06-90ec-4eb69320a16a/rectangle_medium_retina.jpg</string>
+
+    <string name="Stockholm_sedvardhet_namn_4">The Vasa Museum</string>
+    <string name="Stockholm_sedvardhet_nummer_4">+46(0)8-519 548 00</string>
+    <string name="Stockholm_sedvardhet_adress_4">Galärvarvsvägen 14 Stockholm</string>
+    <string name="Stockholm_sedvardhet_bild_4">http://images.visitstockholm.com/df/640/df640f68-bc01-479b-b344-34c21ca035e5/rectangle_big_retina.jpg</string>
+
+    <!--Copenhagen sedvardheter 1,2,3-->
+    <string name="copenhagen_sedvardhet_namn_1">Tivoli Gardens</string>
+    <string name="copenhagen_sedvardhet_nummer_1"> +45 33151001</string>
+    <string name="copenhagen_sedvardhet_adress_1">Vesterbrogade 3, 1630 København V</string>
+    <string name="copenhagen_sedvardhet_bild_1">https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tivoligardens2.jpg/310px-Tivoligardens2.jpg</string>
+
+    <string name="copenhagen_sedvardhet_namn_2">Nyhavn</string>
+    <string name="copenhagen_sedvardhet_nummer_2"></string>
+    <string name="copenhagen_sedvardhet_adress_2"> Nyhavn 1F, 1051 København K</string>
+    <string name="copenhagen_sedvardhet_bild_2">https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nyhavn_MichaD.jpg/390px-Nyhavn_MichaD.jpg</string>
+
+    <string name="copenhagen_sedvardhet_namn_3">Vor Frelsers Kirke</string>
+    <string name="copenhagen_sedvardhet_nummer_3">+45 32 54 68 83</string>
+    <string name="copenhagen_sedvardhet_adress_3">Sankt Annæ Gade 29, 1416 København</string>
+    <string name="copenhagen_sedvardhet_bild_3">https://images.trvl-media.com/media/content/shared/images/travelguides/destination/178252/Church-Of-Our-Saviour-48647.jpg</string>
+
+    <!--Oslo sedvardheter 1,2,3-->
+    <string name="oslo_sedvardhet_namn_1">Vigeland Museum</string>
+    <string name="oslo_sedvardhet_nummer_1">+47 23 49 37 00</string>
+    <string name="oslo_sedvardhet_adress_1">Nobels gate 32, 0268 Oslo</string>
+    <string name="oslo_sedvardhet_bild_1">https://res-3.cloudinary.com/simpleview/image/fetch/c_limit,f_jpg,q_64,w_800/http://media.tellus.no/images/%3Fd%3D23%26p%3D7028%26t%3D1&amp;.jpg</string>
+
+    <string name="oslo_sedvardhet_namn_2">The Norwegian National Opera</string>
+    <string name="oslo_sedvardhet_nummer_2">+47 21 42 21 21</string>
+    <string name="oslo_sedvardhet_adress_2">Kirsten Flagstads Plass 1, 0150 Oslo</string>
+    <string name="oslo_sedvardhet_bild_2">https://s-media-cache-ak0.pinimg.com/736x/28/13/03/281303118ce1cb3c37ec5bb535777f3d.jpg</string>
+
+    <string name="oslo_sedvardhet_namn_3">Fram Polar Ship Museum</string>
+    <string name="oslo_sedvardhet_nummer_3"> +47 23 28 29 50</string>
+    <string name="oslo_sedvardhet_adress_3">Bygdøynesveien 39, 0286 Oslo</string>
+    <string name="oslo_sedvardhet_bild_3">https://media-cdn.tripadvisor.com/media/photo-s/03/5d/9d/19/fram-polar-ship-museum.jpg</string>
+
+</resources>
